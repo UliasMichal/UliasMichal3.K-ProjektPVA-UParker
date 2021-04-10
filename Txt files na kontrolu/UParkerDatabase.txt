@@ -1,0 +1,39 @@
+UParker.txt
+
+Users:
+U5056BU|MUli|Michal|Uliáš|eKZdfK8=|10.04.2021 10:26|False|False|False
+U1010AS|Admin|Adam|Admin|VBWyfB5VDCSei29dEF==|10.04.2021 15:26|True|False|False
+U2953IO|MUli|Milan|Uliáš|eKZdfK8=|03.04.2021 05:20|False|True|False
+U3912QY|AdminDva|Petr|Polrajch|fiLLyEHxk2bd||True|True|False
+U9336BP|GhostUser0|Odstraneny|Uzivatel|||True|True|False
+U4703KA|BUli|Blanka|Uliášová|DK/InAJdfwSteKZdfK8=||False|True|False
+
+Auta:
+A09165OA|Škoda|Octavia 3|Osobní|5.546|MP|DoOdvolani
+A12346OA|Škoda|Škoda 706|Nákladní|27.5|D|-
+A36268PL|Škoda|Škoda 706|Nákladní|27.5|MP|Odstraneno
+A52678DR|Kia|Kia Sorento UM|Osobní|3.5|D|-
+A02113KK|Kia|Kia Sorento UM|Osobní|2.4|D|-
+A36314VU|Škoda|Škoda Kodiaq|Osobní|7.1|D|-
+A42402HI|Škoda|Škoda Kodiaq|Osobní|7.1|MP|20.04.2021 12:00
+A11005GJ|Roman|Bucegi|Nákladní|33|D|-
+
+Naklady:
+00000001|A12346OA|Výměna karosérie|01.01.2020 11:11|00:02:30|1000
+00000002|A12346OA|Výměna předního světla|03.05.2020 16:09|00:00:30|200.544
+Č100000A|A36268PL|Výměna karosérie|01.01.2020 11:11|00:02:30|1000
+Č100000B|A36268PL|Výměna předního světla|03.05.2020 16:09|00:00:30|200.544
+Č200000A|A02113KK|Prodej karosérie|01.01.2020 11:11|00:02:30|1000
+Č200000B|A02113KK|Výměna předního světla|03.05.2020 16:09|00:00:30|200.544
+1|A11005GJ|Koupě auta|01.04.2021 15:07|00:01:20|500000
+2|A11005GJ|Restaurování auta|01.04.2021 15:07|05:02:30|250000
+3|A11005GJ|Prodej zpětného zrcátka|02.04.2021 15:00|00:00:30|-100
+
+Rezervace:
+R52353468|U5056BU|15.03.2021 09:45|16.03.2021 10:00|A09165OA|Proběhlo
+R59357968|U1010AS|16.03.2021 10:45|16.03.2021 12:45|A09165OA|Zrušeno - adminem
+R91356723|U5056BU|20.04.2021 09:45|20.04.2021 20:00|A09165OA|Zrušeno - uživatelem
+R23611295|U5056BU|05.04.2021 06:00|05.04.2021 18:00|A12346OA|Proběhlo
+R756130|U5056BU|03.05.2021 09:45|10.05.2021 10:00|A12346OA|Neproběhlo
+R94454963|U5056BU|18.04.2021 11:00|18.04.2021 23:59|A12346OA|Zrušeno - adminem
+
